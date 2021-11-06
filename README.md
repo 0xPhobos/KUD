@@ -1,0 +1,2 @@
+# KUD
+kerberos unconstrained delegation
