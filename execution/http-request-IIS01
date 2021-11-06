@@ -1,0 +1,1 @@
+Invoke-WebRequest http://iis01.offense.local -UseDefaultCredentials -UseBasicParsing
